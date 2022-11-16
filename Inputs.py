@@ -8,3 +8,4 @@ print(name, "is", age)
 
 print("your birth year is ", 2022- int(age) )
 
+#homework: add readme si choose an exercise din slides
